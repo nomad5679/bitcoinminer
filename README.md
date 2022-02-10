@@ -1,4 +1,4 @@
-# BitCoinMiner
+# OSHash
 A fun base for a bitcoin miner. The miner is currently not implemented and is more of a fun console project.
 # How to Use
 I reccoment going to repl.it, signing up for a free acount and copying the code into it.
