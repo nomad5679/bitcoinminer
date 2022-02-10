@@ -1,0 +1,14 @@
+Required Packages:
+time
+random
+
+NOTICE
+The OSHASH title may not display properly
+if you are running it in a console.
+It will either not run or not display right.
+To fix this just delete the large title and replace it with:
+OSHash
+
+------------------------------------------------------------------------
+THe OSHash is currently considered a prank miner and has 0 profibility--
+------------------------------------------------------------------------
